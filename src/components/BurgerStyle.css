@@ -102,6 +102,15 @@
   background-repeat: no-repeat;
   background-position:center;
 }
+
+.burgerPicture{
+  background-image: url(../assets/navbar.png);
+  background-size: 50px;
+  height: 40px;
+  width:40%;
+  background-repeat: no-repeat;
+  background-position:left;
+}
 /* .BreadBottom {
   height: 13%;
   width: 80%;
